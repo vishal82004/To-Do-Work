@@ -12,6 +12,11 @@ A **simple, efficient, and modern to-do list application** to help you organize 
 - 💾 **Persistent storage**
 
 ---
+## 🚀 Photos
+![image](https://github.com/user-attachments/assets/a2732ad4-46c0-4a7a-833f-3ce4eb1ccba8)
+![image](https://github.com/user-attachments/assets/b5417963-408d-4964-894e-908a03d8faa9)
+
+
 
 ## 🚀 Getting Started
 
@@ -40,10 +45,3 @@ Feel free to [open an issue](https://github.com/yourusername/tolist/issues) or s
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> Made with ❤️ by [yourusername]
